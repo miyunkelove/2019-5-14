@@ -33,7 +33,7 @@ long main()
 {
     long n;
     while (cin >> n) {
-        cout << Function_one(n) << "," << Function_two(n) << endl; 
+        cout << Function_one(n) << "," << Function_two(n) << endl;
     }
     return 0;
 }
